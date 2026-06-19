@@ -1,5 +1,5 @@
 import jwt from "jsonwebtoken";
-
+//for learning 
 export const protect = (req, res, next) => {
   let token;
 
